@@ -1,2 +1,2 @@
 # netflix-dio
-Projeto 'recriando a interface do Netflix
+## Projeto 'recriando a interface do Netflix'
